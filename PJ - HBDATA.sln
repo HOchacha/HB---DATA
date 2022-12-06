@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PJ - HBDATA", "PJ - HBDATA\PJ - HBDATA.pyproj", "{C74B079D-266C-44E1-9E4A-2AB74490E882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74B079D-266C-44E1-9E4A-2AB74490E882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74B079D-266C-44E1-9E4A-2AB74490E882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAC7FAE-3C76-468A-A315-CF9F5F993A45}
+	EndGlobalSection
+EndGlobal
